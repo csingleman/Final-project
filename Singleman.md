@@ -9,8 +9,8 @@
 
 **What resources do you have now? ** 
 1. Current peer reviewed research articles & summaries for background information
-1. Basic knowledge of HTML/CSS, mapping, databases and data storage options
-1. Contacts of more experienced collaborators and/or mentors to complete the project
+2. Basic knowledge of HTML/CSS, mapping, databases and data storage options
+3. Contacts of more experienced collaborators and/or mentors to complete the project
 
 **What have you learned this week that will help you? **
 I've learned the basics of HTML/CSS, mapping, databases, GitHub, Javascript to the point that I am aware of some possiblities of using each of these technologies and who and where to look for help. 
