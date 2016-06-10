@@ -1,4 +1,4 @@
-#Presentation Template
+#Presentation
 
 **Name:** Corinna Singleman
 **Program:** Biology
